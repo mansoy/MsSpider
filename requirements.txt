@@ -21,7 +21,7 @@ PyHamcrest==1.9.0
 PyMySQL==0.9.2
 pyOpenSSL==18.0.0
 python-dateutil==2.7.5
-pywin32==223
+pywin32==301
 queuelib==1.5.0
 requests==2.21.0
 Scrapy==1.5.1
